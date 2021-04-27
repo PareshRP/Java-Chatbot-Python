@@ -1,0 +1,17 @@
+1. Simple: Java is easy to learn, the syntax of Java is based on C++ which makes easier to write the program in it.
+
+2. Object-oriented: Java follows the object-oriented paradigm which allows us to maintain our code as the combination of different type of objects that incorporates both data and behavior.
+
+3. Portable: Java supports read-once-write-anywhere approach, we can execute the Java program on every machine, java program (.java) is converted to bytecode (.class) which can be easily run on every machine.
+
+4. Robust: Java is a strong programming language as it uses strong memory management, the concepts like Automatic garbage collection, Exception handling, etc., make it more robust.
+
+5. Dynamic: Java is a dynamic language, It supports dynamic loading of classes, it means classes are loaded on demand, It also supports functions from its native languages, i.e., C and C++.
+
+Abstraction: Hiding internal details and showing functionality is known as abstraction.
+
+Encapsulation: Binding (or wrapping) code and data together into a single unit are known as encapsulation.
+
+Inheritance: When one object acquires all the properties and behaviors of a parent object, it is known as inheritance.
+
+Polymorphism: If one task is performed in different ways, it is known as polymorphism.
